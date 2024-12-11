@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+venv/
+ENV/
+
+# CSV files with potentially sensitive data
+*.csv
+
+# IDE
+.idea/
+.vscode/ 
